@@ -1,9 +1,9 @@
 # Federated Learning Simulations and Novel Clustered FL (Fedge)
 
-This repository hosts comprehensive simulation frameworks and experimental implementations for a suite of Federated Learning (FL) algorithms. It includes established methods such as FedProx, pFedMe, FedNova**, SCAFFOLD, FedAdam, as well as our novel clustered FL approach, Fedge.
+This repository hosts comprehensive simulation frameworks and experimental implementations for a suite of Federated Learning (FL) algorithms. It includes established methods such as FedProx, pFedMe, FedNova, SCAFFOLD, FedAdam, as well as our novel clustered FL approach, Fedge.
 
 Our work focuses on addressing the inherent challenges of federated environments, including data heterogeneity, communication constraints, and model personalization. 
-**Importantly, all methods are rigorously evaluated on multidimensional heterogeneity, where variations in data distribution in terms of label, quantity, feature and contrast, and network conditions are systematically incorporated.
+Importantly, all methods are rigorously evaluated on multidimensional heterogeneity, where variations in data distribution in terms of label, quantity, feature and contrast, and network conditions are systematically incorporated.
 
 This approach ensures a thorough assessment of robustness and scalability under realistic and complex scenarios.
 
